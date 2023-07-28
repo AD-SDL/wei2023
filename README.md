@@ -32,7 +32,7 @@ github.com/AD-SDL/rpl_wei and in the Supplementary Information.
 \
 \
 ![Entities](images/Entities2.png)
-*Figure 2: A Diagram of the layout of our software infrastructure and all of its components*
+*Figure 2: A diagram of the layout of our software infrastructure and all of its components*
 # Installation
 ## Installation
  1. Clone the repository into the desired location. This tutorial will assume it is installed in a folder called `~/workspace/rpl_wei`
@@ -52,8 +52,6 @@ pip3 install -e .
 # Demo
 In a linux terminal, go to `~/workspace/rpl_wei/examples`. from within the folder run `./run_wei_server.sh`. in a new terminal tab in the same folder, run `./run_example.py`. This will show a text-only simulation of the workflow execution
 # Paper and Citation
-![Drag Racing](images/multiworkcell.png)
-![Drag Racing](images/Entities2.png)
 
 Our paper is posted on [arXiv](). If you find our work useful, please consider citing us! 
 
