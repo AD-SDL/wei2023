@@ -27,9 +27,21 @@ work aimed at yet more generality and scalability. Code and data are available a
 github.com/AD-SDL/rpl_wei and in the Supplementary Information.
 
 # Installation
+## Installation
+ 1. Clone the repository into the desired location. This tutorial will assume it is installed in a folder called `~/workspace/rpl_wei`
+ 2. within `~/workspace/rpl_wei` run the following code block: 
+
+```
+conda create -n rpl-wei python=3.9
+conda activate rpl-wei
+pip3 install --upgrade pip setuptools wheel
+pip3 install -r requirements/dev.txt
+pip3 install -r requirements/requirements.txt
+pip3 install -e .
+
 
 # Demo
-
+In a linux terminal, go to `~/workspace/rpl_wei/examples`. from within the folder run `./run_wei_server.sh`. in a new terminal tab in the same folder, run `./run_example.py`. This will show a text-only simulation of the workflow
 # Paper and Citation
 
 Our paper is posted on [arXiv](). If you find our work useful, please consider citing us! 
