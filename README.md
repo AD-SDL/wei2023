@@ -26,6 +26,9 @@ applications and with migrating applications between workcells, and suggest dire
 work aimed at yet more generality and scalability. Code and data are available at https://
 github.com/AD-SDL/rpl_wei and in the Supplementary Information.
 
+
+![multiworkcell](images/multiworkcell.png)
+![Entities](images/Entities2.png)
 # Installation
 ## Installation
  1. Clone the repository into the desired location. This tutorial will assume it is installed in a folder called `~/workspace/rpl_wei`
@@ -40,6 +43,8 @@ pip3 install -r requirements/requirements.txt
 pip3 install -e .
 
 ```
+
+
 # Demo
 In a linux terminal, go to `~/workspace/rpl_wei/examples`. from within the folder run `./run_wei_server.sh`. in a new terminal tab in the same folder, run `./run_example.py`. This will show a text-only simulation of the workflow execution
 # Paper and Citation
