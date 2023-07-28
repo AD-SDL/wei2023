@@ -28,7 +28,9 @@ github.com/AD-SDL/rpl_wei and in the Supplementary Information.
 
 
 ![multiworkcell](images/multiworkcell.png)
+*An example of how our framework can connect multiple workcells*
 ![Entities](images/Entities2.png)
+*A Diagram of the layout of our software infrastructure and all of its components*
 # Installation
 ## Installation
  1. Clone the repository into the desired location. This tutorial will assume it is installed in a folder called `~/workspace/rpl_wei`
