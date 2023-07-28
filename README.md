@@ -43,6 +43,8 @@ pip3 install -e .
 # Demo
 In a linux terminal, go to `~/workspace/rpl_wei/examples`. from within the folder run `./run_wei_server.sh`. in a new terminal tab in the same folder, run `./run_example.py`. This will show a text-only simulation of the workflow execution
 # Paper and Citation
+![Drag Racing](images/multiworkcell.png)
+![Drag Racing](images/Entities2.png)
 
 Our paper is posted on [arXiv](). If you find our work useful, please consider citing us! 
 
