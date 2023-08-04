@@ -24,7 +24,7 @@ five applications (one in education, two in biology, two in materials), and a va
 across four labs. We report on successes reusing modules, workcells, and workflows in different
 applications and with migrating applications between workcells, and suggest directions for future
 work aimed at yet more generality and scalability. Code and data are available at [https://
-github.com/AD-SDL/rpl_wei](https://
+github.com/AD-SDL/rpl_wei] (https://
 github.com/AD-SDL/rpl_wei) and in the Supplementary Information.
 
 
