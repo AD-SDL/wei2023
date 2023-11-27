@@ -1,12 +1,9 @@
 # Towards a Modular Architecture for Science Factories
 ## Accelerate 2023
-<div align="center">
 
-[[Website]](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00142chttps://ad-sdl.github.io/wei2023/)
-[[arXiv]](https://arxiv.org/abs/2308.09793)
-[[PDF]](https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00142c)
-______________________________________________________________________
-</div>
+- [[Website]](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00142chttps://ad-sdl.github.io/wei2023/)
+- [[arXiv]](https://arxiv.org/abs/2308.09793)
+- [[PDF]](https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00142c)
 
 ## Abstract
 
